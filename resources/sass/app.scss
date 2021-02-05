@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.header{
+	background-color: white;
+}
+
+#headerMenuCollapse{
+	margin-top: 90px;
+}
+
+.div-card{
+	margin-top: 100px;
+}
